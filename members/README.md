@@ -4,8 +4,11 @@
 
 - [HuYigong](./HuYigong.md)
 
-研究方向：
+研究方向
 
 - 地理加权建模
 - 资源环境承载力评价
 - GIS 软件开发
+
+- [ZhangYiyun](./ZhangYiyun.md)
+
